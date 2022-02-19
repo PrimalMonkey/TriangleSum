@@ -1,0 +1,14 @@
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.exe
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.deps.json
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.runtimeconfig.json
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.runtimeconfig.dev.json
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.dll
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\bin\Debug\netcoreapp3.1\TestTriangle.pdb
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.csproj.AssemblyReference.cache
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.AssemblyInfoInputs.cache
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.AssemblyInfo.cs
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.csproj.CoreCompileInputs.cache
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.dll
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.pdb
+C:\Users\vigov\source\repos\TestTriangle\TestTriangle\obj\Debug\netcoreapp3.1\TestTriangle.genruntimeconfig.cache

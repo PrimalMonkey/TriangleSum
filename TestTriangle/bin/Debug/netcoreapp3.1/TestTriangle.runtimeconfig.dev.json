@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vigov\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vigov\\.nuget\\packages"
+    ]
+  }
+}
